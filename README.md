@@ -18,6 +18,7 @@
 |    1     | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)       | [BC337](https://storage.googleapis.com/baudaeletronicadatasheet/BC337.PDF)             |    R$0,17   |
 |    1     | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html)   | 24V ou +12V/-12V    |   R$36,00    | 
 | 1 | [Chave gangorra](https://www.baudaeletronica.com.br/chave-gangorra-kcd3-102n-verde-com-neon-sem-marcac-o.html)| - | R$1,85
+| 1 | [Voltimetro](https://br.banggood.com/Geekcreit-Mini-Digital-Voltmeter-Ammeter-DC-100V-10A-Voltmeter-Current-Meter-Tester-BlueRed-Dual-LED-Display-p-1416489.html?gpla=1&gmcCountry=BR&currency=BRL&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=lijing&utm_campaign=ssc-brg-all-1014-newcustom-re0327&ad_id=389344072730&gclid=Cj0KCQjwz4z3BRCgARIsAES_OVd-WYtEYyOGJNCb5vra89DurCnhwjkIOx-fQ4ghT_pFcfvKb8wn5VMaAvMDEALw_wcB&cur_warehouse=CN)| - | R$15,58
 
 ## Imagens
 
