@@ -1,12 +1,12 @@
   
-# Fonte de tens�o ajust�vel
+# Fonte de tensão ajustável
 
 
 
   
 ##  Lista de componentes
 
-|Quantidade| Componente        | Especifica��es/tipo | Valor |
+|Quantidade| Componente        | Especificações/tipo | Valor |
 | :---     | :---              |     :---:           | :---  |
 |    1     | [Resistor](https://www.baudaeletronica.com.br/resistor-2k0-5-2w.html) 		   | 2KO               |   R$0,23    |
 |    1     | [Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)		   | 470 �F              |  R$1,09     |
@@ -21,7 +21,7 @@
 
 ## Imagens
 
-### Simula��o da fonte
+### Simulação da fonte
 * link: http://tinyurl.com/ybcwrbpa
 
 <img src="imagens/simulacao.png">
@@ -38,7 +38,7 @@
 
 <img src="imagens/botton.png">
 
-## V�deo 
+## Vídeo 
 
 ## Participantes
 
