@@ -16,7 +16,7 @@
 |    1     | [LED](https://www.baudaeletronica.com.br/led-de-alto-brilho-azul.html)			   | Alto Brilho         |  R$0,28     |
 |    1     | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)   | 5KO              |     R$1,09   | 
 |    1     | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)       | [BC337](https://storage.googleapis.com/baudaeletronicadatasheet/BC337.PDF)             |    R$0,17   |
-|    1     | [Transformador]([https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html))   | 24V ou +12V/-12V    |   R$36,00    | 
+|    1     | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html)   | 24V ou +12V/-12V    |   R$36,00    | 
 | 1 | [Chave gangorra](https://www.baudaeletronica.com.br/chave-gangorra-kcd3-102n-verde-com-neon-sem-marcac-o.html)| - | R$1,85
 
 ## Imagens
