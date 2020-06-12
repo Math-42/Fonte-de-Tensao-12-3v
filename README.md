@@ -24,7 +24,7 @@
 ### Simulação da fonte
 * link: http://tinyurl.com/ybcwrbpa
 
-<img src="imagens/simulacao.png">
+<img src="imagens/simulacao.gif">
  
 ### Diagrama da fonte
 
