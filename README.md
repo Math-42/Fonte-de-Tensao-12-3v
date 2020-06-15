@@ -46,7 +46,7 @@
 
 ## Participantes
 
-* **Matheus Vieira Gonçalves** - [Matth-42](https://github.com/Math-42)
+* **Matheus Vieira Gonçalves** - [Math-42](https://github.com/Math-42)
 
-* **Pedro Henrique Dias Junqueira**  - [Pedoor](https://github.com/pedrohdjs)
+* **Pedro Henrique Dias Junqueira**  - [pedrohdjs](https://github.com/pedrohdjs)
 
