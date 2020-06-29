@@ -11,7 +11,7 @@
 |    1     | [Resistor](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) 		   | 2K2Ω                |   R$0,08    |
 |    1     | [Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)		   | 470 µF              |  R$1,09     |
 |    1     | [Resistor](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)		   | 1KΩ                  |     R$0,14  |  
-|    1     | [Resistor](https://www.baudaeletronica.com.br/resistor-1k2-1-2w.html)		   | 1K2Ω                  |     R$0,14  | 
+|    1     | [Resistor](https://www.baudaeletronica.com.br/resistor-1k1-1-2w.html)		   | 1K1Ω                  |     R$0,14  | 
 |    4     | [Diodo](https://www.baudaeletronica.com.br/diodo-6a10.html)			   | [6A10](https://storage.googleapis.com/baudaeletronicadatasheet/6A10.pdf)			 |     R$0,86   |
 |    1     | [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)	   | [1N4743](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)		     |   R$0,20    |
 |    1     | [LED](https://www.baudaeletronica.com.br/led-de-alto-brilho-vermelho.html)			   | Alto Brilho         |  R$0,24     |
