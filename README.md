@@ -49,6 +49,7 @@
 
 ## [Vídeo Explicativo](https://drive.google.com/file/d/1CGXLuCrlw3WC9BB_H5wJQ_QCIwQmN5zV/view)
 * Obs: é necessário utilizar o email USP
+* Os arquivos do eagle podem ser encontrados na pasta eagle
 
 ## Participantes
 
