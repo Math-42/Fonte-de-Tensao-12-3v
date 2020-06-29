@@ -47,7 +47,8 @@
 
 <img src="imagens/botton.png">
 
-## [Vídeo Explicativo](https://drive.google.com/drive/u/2/folders/1h-_UEvkyNoZA_SFTC85GoE-DOHKTtOpi)
+## [Vídeo Explicativo](https://drive.google.com/file/d/1CGXLuCrlw3WC9BB_H5wJQ_QCIwQmN5zV/view)
+* Obs: é necessário utilizar o email USP
 
 ## Participantes
 
