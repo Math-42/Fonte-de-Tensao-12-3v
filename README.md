@@ -34,11 +34,15 @@
 
 <img src="imagens/diagrama.png">
 
-### Topo da placa de circuito
+### Esquemático da fonte
+
+<img src="imagens/esquematico.png">
+
+### Parte de baixo da placa de circuito
 
 <img src="imagens/top.png">
 
-### Parte de baixo da placa de circuito
+### Topo da placa de circuito 
 
 <img src="imagens/botton.png">
 
