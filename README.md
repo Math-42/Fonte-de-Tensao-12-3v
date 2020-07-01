@@ -15,7 +15,7 @@
 |    4     | [Diodo](https://www.baudaeletronica.com.br/diodo-6a10.html)			   | [6A10](https://storage.googleapis.com/baudaeletronicadatasheet/6A10.pdf)			 |     R$0,86   |
 |    1     | [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)	   | [1N4743](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)		     |   R$0,20    |
 |    1     | [LED](https://www.baudaeletronica.com.br/led-de-alto-brilho-vermelho.html)			   | Alto Brilho         |  R$0,24     |
-|    1     | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)   | 5KO              |     R$1,09   | 
+|    1     | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)   | 5KΩ              |     R$1,09   | 
 |    1     | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)       | [BC337](https://storage.googleapis.com/baudaeletronicadatasheet/BC337.PDF)             |    R$0,17   |
 |    1     | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html)   | 24V ou +12V/-12V    |   R$36,00    | 
 | 1 | [Chave gangorra](https://www.baudaeletronica.com.br/mini-chave-gangorra-kcd11-101-2-terminais-verde.html)| - | R$0,94
@@ -47,7 +47,7 @@
 
 <img src="imagens/botton.png">
 
-## [Vídeo Explicativo](https://drive.google.com/file/d/1CGXLuCrlw3WC9BB_H5wJQ_QCIwQmN5zV/view)
+## [Vídeo Explicativo](https://drive.google.com/file/d/1FfJFXwUXuSc7ZVDYow56NexWSYLpmYIj/view?usp=sharing)
 * Obs: é necessário utilizar o email USP
 * Os arquivos do eagle podem ser encontrados na pasta eagle
 
