@@ -47,6 +47,8 @@
 
 <img src="imagens/botton.png">
 
+* Obs: No eagle, top e bottom estão invertidos, o que pode causar um pouco de confusão
+
 ## [Vídeo Explicativo](https://drive.google.com/file/d/1FfJFXwUXuSc7ZVDYow56NexWSYLpmYIj/view?usp=sharing)
 * Obs: é necessário utilizar o email USP
 * Os arquivos do eagle podem ser encontrados na pasta eagle
